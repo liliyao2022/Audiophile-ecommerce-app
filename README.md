@@ -62,6 +62,7 @@ npm start
 
 ### What I learned
 
+This project is by far one of the hardest projects I have ever executed. It was both challenging and full of learning/unlearning of new JavaScript, React, Router and Redux, and I got the chance to use MUI for web styling. As for the deployment process, I honed my skills in git, netlify.
 
 
 ## Author
