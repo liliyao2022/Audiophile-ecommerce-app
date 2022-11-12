@@ -37,8 +37,7 @@ Users should be able to:
 ![](./public/screenshot.png)
 
 ### Links
-https://liliyao2022.github.io/audiophile-ecommerce-app/
-
+https://exquisite-praline-0e0349.netlify.app/
 ### Setup
 
 To run this project locally:
